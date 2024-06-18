@@ -28,7 +28,7 @@ Approach -
 .Create a DataFrame using these values and sort it by average.
 .Write a function to get 'n' top products with specified minimum number of interactions.
 
-2) Similarity based Collaborative filtering
+##*2) Similarity based Collaborative filtering*
 Objective -
 
  .Provide personalized and relevant recommendations to users.
@@ -37,7 +37,7 @@ Outputs -
 
  .Recommend top 5 products based on interactions of similar users.
 
-3) Model based Collaborative filtering
+##*3) Model based Collaborative filtering*
    
 Objective -
 
